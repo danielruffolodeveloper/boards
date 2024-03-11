@@ -10,22 +10,16 @@ Our focus is on writing top-notch code rather than piling up features. Quality o
 
 ## V1.0.0
 ### Summary
-Version 1 of this project is essentially an MVP, with a primary focus on delivering only the essential features. Our intention is to establish a well-developed platform before delving into more feature-rich functionality. We believe in laying a solid foundation first, ensuring stability and reliability for future enhancements.
+Version 1 of this project is essentially an MVP, with a primary focus on delivering only the essential features.
 
-- Users can easily sign in using Google Firebase Auth and create their personalized accounts.
-Account Creation
+- Users can easily sign in using Google Firebase Auth
 
-- Users have the freedom to customize their account profiles and details to make it truly theirs.
-Boards Creation
+- Users can view all associated account boards
 
-- Create as many boards as needed per account, complete with a standard Kanban column template (Backlog, In-progress, Testing, Complete).
-Board Event Creation
+- Users can create many boards per account, complete with a standard Kanban column template (Backlog, In-progress, Testing, Complete).
 
-- Users can add an unlimited number of events to each board, keeping everything organized and trackable.
-Board Action Log
+- Users can add events to each board within a column.
 
-- Every event is documented in an Action Log, providing users with a convenient summary of all the changes made to a board. Stay informed effortlessly!
-  
 ### Technologies Used
 Client Side
 - React (Vite Build Compiler)
@@ -40,14 +34,12 @@ Server Side
 - Azure Functions (Model V4)
 - Api Gateway (Possibly NGINX)
 - TypeScript
-- Mongodb 
+- MSSQL 
 - Jest
 
-### Diagram
+### Design
 
 [V1.0.0 Design](./design/Design.md)
-
-
 
 
 ## Installation
