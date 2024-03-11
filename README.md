@@ -12,7 +12,7 @@ Our focus is on writing top-notch code rather than piling up features. Quality o
 ### Summary
 Version 1 of this project is essentially an MVP, with a primary focus on delivering only the essential features.
 
-- Users can easily sign in using Google Firebase Auth
+- Users can easily sign in using AD Authentication
 
 - Users can view all associated account boards
 
