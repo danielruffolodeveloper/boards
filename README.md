@@ -10,15 +10,7 @@ Our focus is on writing top-notch code rather than piling up features. Quality o
 
 ## V1.0.0
 ### Summary
-Version 1 of this project is essentially an MVP, with a primary focus on delivering only the essential features.
-
-- Users can easily sign in using AD Authentication
-
-- Users can view all associated account boards
-
-- Users can create many boards per account, complete with a standard Kanban column template (Backlog, In-progress, Testing, Complete).
-
-- Users can add events to each board within a column.
+Version 1 of this project is essentially an MVP, with a primary focus on delivering only the essential features. This version will deliver a complete Authentication experience with the essential Kanban features for the user to use. It will also focus mainly on preparing the codebase for future developments. More information can be seen in the design.md
 
 ### Technologies Used
 Client Side
