@@ -45,7 +45,7 @@ Server Side
 
 ### Diagram
 
-[Diagram](./design/Design.md)
+[V1.0.0 Design](./design/Design.md)
 
 
 
