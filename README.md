@@ -8,7 +8,8 @@ We're implementing microservices and microfrontend architecture to keep things m
 
 Our focus is on writing top-notch code rather than piling up features. Quality over quantity is our mantra. Let's build something fantastic and easy to maintain! 🚀
 
-## V1 Features
+## V1.0.0
+### Summary
 Version 1 of this project is essentially an MVP, with a primary focus on delivering only the essential features. Our intention is to establish a well-developed platform before delving into more feature-rich functionality. We believe in laying a solid foundation first, ensuring stability and reliability for future enhancements.
 
 - Users can easily sign in using Google Firebase Auth and create their personalized accounts.
@@ -25,7 +26,7 @@ Board Action Log
 
 - Every event is documented in an Action Log, providing users with a convenient summary of all the changes made to a board. Stay informed effortlessly!
   
-## Technologies Used
+### Technologies Used
 Client Side
 - React (Vite Build Compiler)
 - TypeScript
@@ -41,6 +42,13 @@ Server Side
 - TypeScript
 - Mongodb 
 - Jest
+
+### Diagram
+
+[Diagram](./design/Design.md)
+
+
+
 
 ## Installation
 
