@@ -1,4 +1,4 @@
-# Bords Full Stack Application
+# Boards Full Stack Application
 
 ## Summary Of Project
 
